@@ -1,6 +1,5 @@
 #' ---
 #' title: "Titanic: Machine Learning from Disaster (Kaggle)"
-#' author: "Xi, Peng"
 #' date: "Dec. 09, 2015"
 #' ---
 rm(list = ls())
